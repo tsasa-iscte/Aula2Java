@@ -3,7 +3,7 @@ package Aula2package;
 public class TiagoClass {
 
 	public TiagoClass() {
-		//First Classe
+		//First Class
 		System.out.println("Tiago Classe");
 	}
 
